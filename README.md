@@ -7,22 +7,6 @@
 
 <br/>
 
-```javascript
-const developer = {
-    name: "Emilio Rigoberto Sandoval García",
-    role: "Desarrollador C#",
-    location: "Guatemala, Cobán Alta Verapaz",
-    code: {
-        languages: ["C#", "C++", "C"],
-        databases: ["SQL Server"],
-        frontend: ["HTML", "CSS"],
-        tools: ["Git", "Visual Studio"]
-    },
-    currentStatus: "Aprendiendo nuevas tecnologías y mejorando habilidades",
-    hobbies: ["Programación", "Ingeniería Informática", "Desarrollo de Software"]
-}
-```
-
 <h2 align="center">⚡ Mis Especialidades</h2>
 <br/>
 <div align="center">
@@ -69,6 +53,9 @@ const developer = {
 
 <div align="center">
   <h2>🌐 Contacto y Redes Sociales</h2>
+  <a href="https://facebook.com/profile.php?id=100095017982330" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
   <a href="https://sandoval288.wordpress.com/dia-del-amor-y-de-la-amistad/" target="_blank">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   </a>
