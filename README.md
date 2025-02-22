@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1F37F7&center=true&vCenter=true&width=600&lines=¡Hola+%F0%9F%91%8B+Soy+Emilio!;Desarrollador+de+Software;Apasionado+por+la+Tecnología" alt="Typing SVG" /> 
 </div>  
 
-<h2 align="center">Emilio Rigoberto Sandoval García</h2> 
-<h4 align="center">Desarrollador en C# con experiencia en bases de datos SQL Server. Apasionado por la Ingeniería Informática y en constante aprendizaje.</h4>  
+<h1 align="center">Emilio Rigoberto Sandoval García</h1> 
+
 
 <br/>  
 
